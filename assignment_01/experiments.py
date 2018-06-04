@@ -67,7 +67,7 @@ def write_result(name, predictions):
         target_writer.writerow(header)
 
         for i in range(0, len(predictions), 28):
-            # NOTE: 57129 is the offset of user ids
+            # NOTE: 57159 is the offset of user ids
             userid = [57159 + i // 28]
             labels = predictions[i:i+28].tolist()
 
