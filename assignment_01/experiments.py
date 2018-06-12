@@ -20,8 +20,8 @@ Note:
     * We expect you to get at least 0.82152.
     * We have prepare the code to explain the pre-processed dataset, feel free
       to change/replace it.
-    * Although coding style is not important in this assignment, please make
-      the code readable, please...
+    * Although this is not a coding style test, please make the code readable,
+      please...
 """
 import csv
 import numpy as np
