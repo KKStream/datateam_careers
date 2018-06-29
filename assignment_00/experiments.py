@@ -15,12 +15,13 @@ Things you can do:
     * Implement a model and evaluate it.
     * Implement a model from scratch (e.g. do deep learning with numpy).
     * Extract and try different features from raw data.
+    * ...
 
 Note:
     * We expect you to get at least 0.82152.
     * We have prepare the code to explain the pre-processed dataset, feel free
       to change/replace it.
-    * If it's done in python, please send *.py instead *.ipynb.
+    * If it's done in python, please send *.py (no *.ipynb).
     * Although this is not a coding style test, please make the code readable,
       please...
 """
