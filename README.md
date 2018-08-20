@@ -1,5 +1,5 @@
 # KKStream
-KKStream is a KKBOX branch established in 2016 serving as the foremost video streaming solution provider in Asia. We provide scalable video platforms and enterprise solutions, now applied by companies including au, Japan and KKTV, Taiwan.
+[KKStream](https://www.kkstream.com.tw/en/) is a KKBOX branch established in 2016 serving as the foremost video streaming solution provider in Asia. We provide scalable video platforms and enterprise solutions, now applied by companies including au, Japan and KKTV, Taiwan.
 
 
 # Applied Data Science Team

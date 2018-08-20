@@ -1,7 +1,7 @@
 # Senior Data Engineer - Backend & Infra
 
 ## Job Description
-At KKStream, decisions on how to improve streaming quality and service performance are driven by data. We are looking for someone to transform large scale incoming data about video streaming and customer behavior into well-designed, high quality structure that empower the decision-making for teams within KKStream.
+At [KKStream](https://www.kkstream.com.tw/en/), decisions on how to improve streaming quality and service performance are driven by data. We are looking for someone to transform large scale incoming data about video streaming and customer behavior into well-designed, high quality structure that empower the decision-making for teams within KKStream.
 
 You will have strong collaboration with analytic partners, domain experts, and other consumers of your work, in supporting an engineering and product function.
 
