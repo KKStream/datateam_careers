@@ -5,6 +5,9 @@ At [KKStream](https://www.kkstream.com.tw/en/), decisions on how to improve stre
 
 You will have strong collaboration with analytic partners, domain experts, and other consumers of your work, in supporting an engineering and product function.
 
+#### What is a Data Engineer?
+Data engineers are mainly tasked with transforming data into a format that can be easily analyzed. They do this by developing, maintaining, and testing infrastructures for data generation. Data engineers work closely with data scientists and are largely in charge of architecting solutions for data scientists that enable them to do their jobs.
+
 ## Responsibility
 * Take ownership and increase automation of the complex data flow to enable rapid experimentation in a nimble engineering organization.
 * Support to implement the business logic to be compatible with real-time/stream processing frameworks.
