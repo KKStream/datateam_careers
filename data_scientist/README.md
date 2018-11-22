@@ -1,7 +1,7 @@
 # Data Scientist - Search, Japan
 
 ## Job Description
-We are looking for a talented Data Scientist to join our Japan office. Working alongside other team members to dig deep into to our service data for Japan clients, you will help construct and optimize the recommender system and search engine to improve the watching experience of millions of audiences.
+We are looking for a talented Data Scientist to join our Japan office. Working alongside other team members to dig deep into our service data for Japan clients, you will help construct and optimize the recommender system and search engine to improve the watching experience of millions of audiences.
 
 You will have strong collaboration with analytic partners, domain experts, and other consumers of your work, in supporting an engineering and product function.
 
@@ -12,12 +12,13 @@ You will have strong collaboration with analytic partners, domain experts, and o
 * Partner with other data scientists to “tell the story” behind the data.
 
 ## Requirement
+* Solid English or Mandarin skills and local experience.
 * Have experience working with cross-functional teams to gather requirements and define the right metrics to describe the state of the business - both on a macro-level and a micro-level.
 * Have the ability to condense analysis into actionable insights to inform business decisions and influence; understand business models and high-level strategy.
-* Possess statistical competence; demonstrated experience with hands-on statistical modeling (such as regression modeling, a/b testing, significance testing etc), knowledge about machine learning (such as predictive modeling, decision trees, classification models, and clustering techniques) or natural language processing for Japanese.
+* Possess statistical competence; demonstrated experience with hands-on statistical modeling (such as regression modeling, A/B testing, significance testing etc), knowledge about machine learning (such as predictive modeling, decision trees, classification models, and clustering techniques) or natural language processing for Japanese.
 
 ## Plus
-* Experience guiding product decisions based on data and A/B testing a plus but not required
+* Experience guiding product decisions based on data and A/B testing
 * Operating experience measuring and visualizing data (Amplitude, Mixpanel, Firebase, or directly conducting with SQL)
 * Have the technical competence to perform advanced analytics: coding skills (such as Python, Java, and Scala) and experience performing analysis with large datasets, analytics tools experience (Pandas, R, SQL, or Hadoop)
 
