@@ -1,4 +1,4 @@
-# Data Analyst - Schema Design
+# Data Analyst
 
 ## Job Description
 At KKStream, decisions on how to improve product value and service business are driven by data. We are looking for a data analyst to focus on measurement, experiment design, and algorithm implementation to understand how OTT audiences engage and to improve the watching experience of millions of audiences.
@@ -24,9 +24,7 @@ You will have strong collaboration with analytic partners, domain experts, and o
 
 We, [KKStream](https://www.kkstream.com.tw/en/), had hosted competitions on Kaggle in 2017, and made available de-identified playback data sets from [KKTV](https://www.kktv.me/). One of our Kaggle in-class competitions aimed at predicting the time when customers watched drama. Detailed description and the submission instructions are available on the competition link.
 
-To complete the assignments, join the competition and get the preprocessed dataset. Then make submissions as many as you can within 7 days, which will be evaluated with AUC by Kaggle and revealed on leaderboard. After you are done, send back the source code (we prefer Python or R, no notebook please) and MD5 of your best submissions along with your Kaggle account for confirmation.
-
-As our intention is to evaluate your skill, not take advantage of you, feel free to refuse providing the source code if you beat the 2nd benchmark on leaderboard.
+To complete the assignments, join the competition and get both raw and [pre-processed datasets](./assignment_01/preprocessed_datasets.zip). Run the [script](./assignment_01/experiments.py) to make predictions with pre-processed dataset. Submit the result to Kaggle and get the score. The score should be around 0.85. After that, write your own script to process the raw dataset. Your goal is to create a new pre-processed dataset just like the one we provided. After you are done, send back the source code, and MD5 of your final submission along with your Kaggle account for confirmation.
 
 ### Presentation
 
