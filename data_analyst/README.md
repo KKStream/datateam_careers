@@ -11,14 +11,19 @@ You will have strong collaboration with analytic partners, domain experts, and o
 * Constantly deliver a commentary on the result of online testing of user behavior measurement.
 
 ## Requirement
+* Have the technical competence to perform advanced analytics: coding skills (such as Python, Java, and Scala) and experience performing analysis with large datasets, analytics tools experience (Pandas, R, SQL, or Hadoop)
 * Have the ability to condense analysis into actionable insights to inform business decisions and influence; understand business models and high-level strategy.
 * Possess statistical competence; demonstrated experience with hands-on statistical modeling (such as regression modeling, a/b testing, significance testing etc), knowledge about machine learning (such as predictive modeling, decision trees, classification models, and clustering techniques)
-* Have the technical competence to perform advanced analytics: coding skills (such as Python, Java, and Scala) and experience performing analysis with large datasets, analytics tools experience (Pandas, R, SQL, or Hadoop)
+
 
 ## Plus
-* Operating experience measuring and visualizing data (Amplitude, Mixpanel, or Firebase)
+* Operating experience designing, integrating, and visualizing data report using analytic tools like Amplitude, Mixpanel, or Firebase.
 
 ## Interviews
+
+### Coding Test
+
+Before you are a data scientist, you must be a programmer. There will be a coding test on [codility](https://www.codility.com/) before the interview. You will be requested to answer two quesions within hours. The interview will proceed depending on your result on codility. If you successfully pass, you will move on to the next stage.
 
 ### Assignment
 
@@ -28,31 +33,11 @@ To complete the assignments, join the competition and get both raw and [pre-proc
 
 ### Presentation
 
-We want to know you. Once you get the invitation to the interview, please make a slide to present things that you want to share with us. Topics you can include are:
+We want to know you. Once you get the invitation to the interview, please make a slide to present things that you want to share with us. Topics you may mention include:
 
 * (must) self introduction
 * (must) how you have done the assignment
 * (optional) your pet projects
+* (optional) your experience in conducting data analysis
 * (optional) how you participated the other competitions
 * ...
-
-### Whiteboard Coding Test
-
-> Before you are a data scientist, you must be a programmer.
-
-There will be a whiteboard coding test during the interview. However, we have different expectations comparing to the other teams. It is good if you can come up with a solution during the test. If you can't, we will guide you to solve the problem. The bottom line is, you are expected to complete the code after we revealing the details of the solution. Here are 2 examples.
-
-``` python
-def to_odd_even(nums):
-    """
-    given an integer list, rearrange it so that all odd integers are placed
-    before even integers.
-    """
-
-
-def to_negative_zero_positive(nums):
-    """
-    given an integer list, rearrange it so that all negative integers are
-    placed before zeros, and all zeros are placed before positive integers.
-    """
-```
